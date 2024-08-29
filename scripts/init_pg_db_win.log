@@ -1,0 +1,6 @@
+ERROR: DB_NAME is not set. Check your .env.dev file. 
+'psql' is not recognized as an internal or external command,
+operable program or batch file.
+'psql' is not recognized as an internal or external command,
+operable program or batch file.
+CREATE DATABASE
